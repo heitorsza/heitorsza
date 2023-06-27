@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=ff7fb3center=true&width=435&lines=Bem-vinda(o),+sou+o+Heitor!)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=ff7fb3center=true&width=435&lines=Bem-vindo,+sou+o+Heitor!)
 - 👩🏻‍💻 Sou estudante de tecnologia da informação, atuando com análise e desenvolvimento de sistemas na Fatec Jales.
 - 👨🏻‍🎓 Sou formado em administração atráves da Etec Jales.
 
